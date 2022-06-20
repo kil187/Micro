@@ -35,4 +35,4 @@ bot.load_extension("초대")
 bot.load_extension("저격")
 bot.load_extension("유튜브")
 
-bot.run('OTg3NzM5NDU5MjM3ODM4OTA4.GXx0BD.Df8cKP-Jrbnt807EUmM8cbCFQbt9LXoq3jDhPQ')
+bot.run('TOKEN')
