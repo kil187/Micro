@@ -9,7 +9,7 @@ class Slash(commands.Cog):
     
     @cog_ext.cog_slash(name="날씨", description='/날씨 [나라,도시 이름]')
     async def weather(self, ctx: SlashContext, *, location : str=None):
-     API_ID = "f967084af3825acaaa52e8ffb575f3cb"
+     API_ID = "API ID"
      if location == None:
         ctx.command.reset_cooldown(ctx)
         await ctx.send('You havent provided a location!')
