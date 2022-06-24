@@ -5,10 +5,3 @@ Discord.py Micro Bot
 Micro Bot 코드는 오픈 소스입니다
 Slash Command를 상용합니다.
 
-날씨.py = import requests
-도움.py = import platform
-시간.py = import time
-          from pytz import timezone
-          from pytz import timezone
-유튜브.py = import urllib.parse, urllib.request, re
-핑.py = from http import client
