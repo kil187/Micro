@@ -34,5 +34,7 @@ bot.load_extension("날씨")
 bot.load_extension("초대")
 bot.load_extension("저격")
 bot.load_extension("유튜브")
+bot.load_extension("룰렛")
+bot.load_extension("유저정보")
 
 bot.run('TOKEN')
